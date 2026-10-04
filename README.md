@@ -1,4 +1,4 @@
-# BARBARA-CAFETERA-POO
+# LISSETTE-CAFETERA-POO
 
 Proyecto universitario desarrollado en Java.
 
